@@ -14,3 +14,23 @@ let someNumber = 33;
 let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+/**********.  operations.  ************ */
+let value = 3;
+let negative = -value;
+console.log(negative);
+
+
+console.log(2>1);
+console.log(2>=1);
+console.log(2<1);
+console.log(2==1);
+console.log(2!=1);
+console.log("2">1);
+console.log("02">1);
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+console.log(undefined==0);
+console.log("2"===2);
